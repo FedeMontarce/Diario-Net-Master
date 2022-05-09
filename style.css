@@ -59,12 +59,3 @@ h5{
     grid-area: img6;
 }
 
-/* Mobile */
-@media screen and (max-width:490px){
-
-}
-
-/* Desktop*/
-@media screen and (min-width:491px){
-    
-}

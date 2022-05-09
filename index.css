@@ -19,8 +19,8 @@ p{
 }
 
 /* Mobile */
-@media screen and (max-width: 490px){
-    .carousel{
-        display: none;
-    }
+@media screen and (max-width:490px) and (max-height:844px){
+}
+/* Desktop */
+@media screen and (min-width:491px) and (min-height:855px){
 }
