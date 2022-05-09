@@ -23,6 +23,8 @@ p{
 h5{
     max-width: 450px;
     color: red;
+    text-decoration: underline red;
+    cursor: pointer;
 }
 .container{
     display: grid;
@@ -55,4 +57,14 @@ h5{
 }
 .img6{
     grid-area: img6;
+}
+
+/* Mobile */
+@media screen and (max-width:490px){
+
+}
+
+/* Desktop*/
+@media screen and (min-width:491px){
+    
 }
