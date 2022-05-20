@@ -20,6 +20,9 @@ p{
 
 /* Mobile */
 @media screen and (max-width:490px) and (max-height:844px){
+    .d-none{
+        display: none;
+    }
 }
 /* Desktop */
 @media screen and (min-width:491px) and (min-height:855px){
